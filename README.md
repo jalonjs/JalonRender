@@ -1,4 +1,4 @@
-JalonRender
+JalonRender v0.0.1&lt;1kb
 ===========
 
 a very little bit template engine （v0.0.1&lt;1kb）
