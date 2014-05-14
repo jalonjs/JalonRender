@@ -9,7 +9,7 @@ for example:
     <html>
     <head>
         <title>JalonRender</title>
-        <script type="text/javascript" src="JalonRender.js"></script>
+        <script type="text/javascript" src="JalonRender.min.js"></script>
     </head>
     <body>
     
