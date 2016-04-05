@@ -1,7 +1,7 @@
 JalonRender v1.0.0
 ===========
 
-a very little bit template engine （v1.0.0 293 Bytes）
+a very little bit template engine （293 Bytes）
 
 For example:
 
