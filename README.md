@@ -1,7 +1,7 @@
-JalonRender v0.0.1
+JalonRender v1.0.0
 ===========
 
-a very little bit template engine （v0.0.1&lt;1kb）
+a very little bit template engine （v1.0.0&lt;1kb）
 
 For example:
 
