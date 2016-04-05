@@ -1,10 +1,11 @@
-JalonRender v1.0.0
+JalonRender v0.0.1
 ===========
 
-a very little bit template engine （v1.0.0&lt;1kb）
+a very little bit template engine （v0.0.1&lt;1kb）
 
-for example:
+For example:
 
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -43,3 +44,4 @@ for example:
 </script>
 </body>
 </html>
+```
